@@ -1,6 +1,9 @@
 ## EMCRONIX | React eCommerce Web App
 
+<<<<<<< HEAD
 ### [Demo Link](https://EMCRONIX.netlify.app/) 🔗
+=======
+>>>>>>> 5da719c7d1641a754916ea65f6e5e933f414f945
 
 Audio Store eCommerce Website, built with **React JS**. <br/>
 State management using Context API.
@@ -31,9 +34,6 @@ State management using Context API.
 
 <br/>
 
-## Author:
-
-- **Gulshan Songara** - **[Portfolio Website](https://gulshansongara.netlify.app)**, **[Linkedin](https://www.linkedin.com/in/gulshan-songara/)**
 
 <br/>
 
@@ -51,4 +51,7 @@ State management using Context API.
 
 ## License:
 
+<<<<<<< HEAD
 This project is licensed under the **GPL-3.0 License** - see the [LICENSE](LICENSE.md) file for details.
+=======
+>>>>>>> 5da719c7d1641a754916ea65f6e5e933f414f945
