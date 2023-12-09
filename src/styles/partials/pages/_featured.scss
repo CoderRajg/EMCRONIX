@@ -1,0 +1,26 @@
+#featured {
+    margin-top: -1rem;
+}
+
+.featured_slides {
+    text-align: center;
+    overflow: hidden;
+
+    @include devices(md) {
+        width: 16rem;
+    }
+}
+
+.featured_swiper {
+    @include padding-y(0rem !important, 0rem !important);
+}
+
+.featured_img {
+    @include margin-y(2rem, 2rem);
+    overflow: hidden;
+    background-color: rgb(21, 21, 21);
+
+    img {
+        @include img-fit;
+    }
+}
