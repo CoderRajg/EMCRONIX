@@ -1,6 +1,6 @@
-## X-Beat | React eCommerce Web App
+## EMCRONIX | React eCommerce Web App
 
-### [Demo Link](https://x-beat.netlify.app/) 🔗
+### [Demo Link](https://EMCRONIX.netlify.app/) 🔗
 
 Audio Store eCommerce Website, built with **React JS**. <br/>
 State management using Context API.
@@ -51,4 +51,4 @@ State management using Context API.
 
 ## License:
 
-This project is licensed under the  **GPL-3.0 License** - see the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the **GPL-3.0 License** - see the [LICENSE](LICENSE.md) file for details.
